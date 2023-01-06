@@ -1,3 +1,5 @@
+DATA Exploration
+
 SELECT * FROM dbo.CovidDeath
 WHERE continent IS NOT NULL
 
